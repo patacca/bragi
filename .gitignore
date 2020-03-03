@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 
 config.py
+bragi_db.sq3
+bin/
+include/
